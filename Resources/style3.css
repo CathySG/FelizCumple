@@ -1,0 +1,47 @@
+html {
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+.header {
+  background-color: #fad74a;
+  display: flex;
+  position: fixed;
+  width: 100%;
+  z-index: 3;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+p {
+  font-family: cursive;
+  font-size: 30px;
+}
+
+nav span{
+  padding-right: 30px;
+  margin-right: 30px;
+  font-size: 20px;
+  color: black;
+}
+
+a:hover {
+  color: #fad74a;
+}
+
+.video {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.f123 {
+  display: flex;
+  justify-content: space-space-around;
+}
+
+.f1 img {
+  height: 400px;
+  padding: 40px;
+}

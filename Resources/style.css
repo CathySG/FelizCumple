@@ -1,0 +1,63 @@
+.feston {
+  display: flex;
+  justify-content: center;
+}
+
+.uno {
+display: flex;
+justify-content: space-around;
+}
+
+h1  {
+  color: #19b9b7;
+  font-size: 90px;
+  padding-top: 75px;
+  font-family: fantasy;
+}
+
+.dos {
+display: flex;
+align-content: flex-end;
+}
+
+.feliz {
+  padding-right: 60px;
+}
+
+.feliz img {
+  padding-left: 340px;
+}
+
+.foto {
+  display: inline-block;
+}
+
+.foto img {
+  height: 500px;
+  padding-left: 380px;
+}
+
+h2  {
+  font-family: fantasy;
+  padding-left: 420px;
+  color: #d13f3d;
+  font-size: 50px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+.franja {
+  height: 80px;
+  background-color: #fad74a;
+  margin-top: 15px;
+}
+
+p {
+  font-size: 20px;
+  text-align: right;
+  padding: 25px;
+}
+
+#flecha {
+  font-size: 30px;
+}
