@@ -1,6 +1,6 @@
 html {
   font-size: 18px;
-  font-family: sans-serif;
+  font-family:serif;
 }
 
 .header {
@@ -44,4 +44,30 @@ a:hover {
 .f1 img {
   height: 400px;
   padding: 40px;
+}
+
+.final {
+  font-size: 60px;
+  color: #d1394f;
+  font-weight: bold;
+  text-align: center;
+}
+
+.adivina {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  padding: 15px;
+  padding-right: 30px;
+}
+.adivina video {
+  height: 40px;
+}
+
+h4 {
+  font-size: 24px;
+}
+
+h5 {
+  color: white;
 }
